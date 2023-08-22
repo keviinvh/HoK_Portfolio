@@ -1,6 +1,6 @@
 # HoK_Portfolio  
 
-The project titles are links, click on them to bring you to the projects!
+The project titles are links, click on them to bring you to the projects! The format of the titles is in the order as shown: Project number, skill showcased, software used: title.
 
 # [PROJECT 1, Data Exploration, SQL: WSDA Music Shop Discrepancy](https://github.com/keviinvh/HoK_SQL)  
 
@@ -12,4 +12,4 @@ The project titles are links, click on them to bring you to the projects!
 
 - This was made for a family member who wanted to see their expenses and income throughout the year, track tax write-offs, and be able to see monthly and yearly summaries of their income and expenses.
 - Displays use of **Pivot tables, macros, sumifs formulas, data validation, conditional formatting, and data visualization**.
-- The purpose of this project was to display some of my experience in Excel, but is not the extent of my knowledge.
+- The purpose of this project was to display some of my experience in Excel with real-world applications, but is not the extent of my knowledge.
