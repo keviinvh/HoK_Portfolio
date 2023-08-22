@@ -1,4 +1,6 @@
-# HoK_Portfolio
+# HoK_Portfolio  
+
+The project titles are links, click on them to bring you to the projects!
 
 # [PROJECT 1, Data Exploration, SQL: WSDA Music Shop Discrepancy](https://github.com/keviinvh/HoK_SQL)  
 
