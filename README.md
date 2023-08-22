@@ -8,3 +8,8 @@ The project titles are links, click on them to bring you to the projects!
 - Displays use of SQL queries such as **INNER JOIN, WHERE, GROUP BY, SUM, AVG, COUNT, ORDER BY, AND, and strftime**. I also showcased the use of subqueries.  
 - The purpose of this project was to showcase the use of SQL in a real-world scenario.  
 
+# [PROJECT 2, Data Tracking & Dashboard, Excel: Financial Tracking Tool](https://github.com/keviinvh/HoK_Excel.git)
+
+- This was made for a family member who wanted to see their expenses and income throughout the year, track tax write-offs, and be able to see monthly and yearly summaries of their income and expenses.
+- Displays use of **Pivot tables, macros, sumifs formulas, data validation, conditional formatting, and data visualization**.
+- The purpose of this project was to display some of my experience in Excel, but is not the extent of my knowledge.
