@@ -13,3 +13,12 @@ The project titles are links, click on them to bring you to the projects! The fo
 - This was made for a family member who wanted to see their expenses and income throughout the year, track tax write-offs, and be able to see monthly and yearly summaries of their income and expenses.
 - Displays use of **Pivot tables, macros, sumifs formulas, data validation, conditional formatting, and data visualization**.
 - The purpose of this project was to display some of my experience in Excel with real-world applications, but is not the extent of my knowledge.
+
+# [PROJECT 3, Data Visualization, PowerBI: Superstore Sales](https://github.com/keviinvh/HoK_PowerBI.git)
+
+- The data was downloaded from kaggle.com. This was made to showcase my data visualization skills with a purpose.
+- Displays use of **data transformation and data visualization**.
+- The purpose of this project was to display some of my experience in PowerBI with real-world applications.
+
+
+
