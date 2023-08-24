@@ -20,7 +20,7 @@ The project titles are links, click on them to bring you to the projects! The fo
 - Displays use of **data transformation and data visualization**.
 - The purpose of this project was to display some of my experience in PowerBI with real-world applications.
 
-# PROJECT 4, Data Cleaning, Excel: Coming Soon! (In Progress)
+# PROJECT 4, Data Cleaning, SQL: Coming Soon! (In Progress)
 
 # PROJECT 5, Data Visualization, Tableau: Coming Soon! (Still Learning)
 
