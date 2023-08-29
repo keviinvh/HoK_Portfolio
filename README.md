@@ -16,15 +16,22 @@ The project titles are links, click on them to bring you to the projects! The fo
 
 # [PROJECT 3, Data Visualization, PowerBI: Superstore Sales](https://github.com/keviinvh/HoK_PowerBI.git)
 
-- The data was downloaded from kaggle.com. This was made to showcase my data visualization skills with a purpose.
-- Displays use of **data transformation and data visualization**.
+- The data was downloaded from kaggle.com. This was made to showcase my data visualization skills with a purpose and my thinking working in PowerBI.
+- Displays use of **data visualization, filters, dashboards**.
 - The purpose of this project was to display some of my experience in PowerBI with real-world applications.
 
-# PROJECT 4, Data Cleaning, SQL: Coming Soon! (In Progress)
+# [PROJECT 4, Data Visualization, Tableau: Video Game Sales ](https://github.com/keviinvh/HoK_Tableau.git)
 
-# PROJECT 5, Data Visualization, Tableau: Coming Soon! (Still Learning)
+- The data was downloaded from kaggle.com. This was made to showcase my data visualization skills with a purpose and my thinking working in Tableau.
+- Displays use of **data visualization, filters, dashboards**.
+- The purpose of this project was to display some of my experience in Tableau with real-world applications.
 
-# PROJECT 6, Data Scraping, Python: Coming Soon! (Still Learning)
+
+# PROJECT 5, Data Cleaning, SQL: Coming Soon! (In Progress)
+
+# PROJECT 6, Data Visualization, Tableau: Coming Soon! (Still Learning)
+
+# PROJECT 7, Data Scraping, Python: Coming Soon! (Still Learning)
 
 
 
