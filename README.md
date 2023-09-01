@@ -1,6 +1,6 @@
 # HoK_Portfolio  
 
-The project titles are links, click on them to bring you to the projects! The format of the titles is in the order as shown: Project number, skill showcased, software used: title.
+The project titles are links, click on them to bring you to the projects! The format of the titles is in the order as shown: Project number, skill(s) showcased, software used: title.
 
 # [PROJECT 1, Data Exploration, SQL: WSDA Music Shop Discrepancy](https://github.com/keviinvh/HoK_SQL)  
 
@@ -29,9 +29,14 @@ The project titles are links, click on them to bring you to the projects! The fo
 
 # PROJECT 5, Data Cleaning, SQL: Coming Soon! (In Progress)
 
-# PROJECT 6, Data Visualization, Tableau: Coming Soon! (Still Learning)
+# PROJECT 6, Data Scraping, Python: Coming Soon! (Still Learning)
 
-# PROJECT 7, Data Scraping, Python: Coming Soon! (Still Learning)
+# Learning Goals:
 
-
-
+ - Learn Python for data scraping, data cleaning, and mathematical operations (pandas, NumPy).
+ - Learn R data language for versatility purposes
+ - Take my skills with SQL, Tableau, and PowerBI to the next level
+ - Increase speed and efficiency
+ - Keep learning and improving
+ - Learn CSS, HTML, and Java for web development
+ - Learn about API's
