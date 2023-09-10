@@ -27,12 +27,10 @@ The project titles are links, click on them to bring you to the projects! The fo
 - The purpose of this project was to display some of my experience in Tableau with real-world applications.
 
 
-# PROJECT 5, Data Cleaning, SQL: Coming Soon! (In Progress)
-
-# PROJECT 6, Data Scraping, Python: Coming Soon! (Still Learning)
 
 # Learning Goals:
 
+ - Keep advancing my knowledge in SQL and Tableau.
  - Learn Python for data scraping, data cleaning, and mathematical operations (pandas, NumPy).
  - Learn R data language for versatility purposes
  - Take my skills with SQL, Tableau, and PowerBI to the next level
