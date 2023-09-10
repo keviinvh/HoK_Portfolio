@@ -37,4 +37,3 @@ The project titles are links, click on them to bring you to the projects! The fo
  - Increase speed and efficiency
  - Keep learning and improving
  - Learn CSS, HTML, and Java for web development
- - Learn about API's
