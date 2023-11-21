@@ -30,10 +30,7 @@ The project titles are links, click on them to bring you to the projects! The fo
 
 # Learning Goals:
 
- - Keep advancing my knowledge in SQL and Tableau.
- - Learn Python for data scraping, data cleaning, and mathematical operations (pandas, NumPy).
  - Learn R data language for versatility purposes
- - Take my skills with SQL, Tableau, and PowerBI to the next level
- - Increase speed and efficiency
- - Keep learning and improving
+ - Improve skills with SQL, Tableau, and PowerBI
  - Learn CSS, HTML, and Java for web development
+ - Build a website
